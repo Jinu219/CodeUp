@@ -1,9 +1,2 @@
 # CodeUp
-
-> 2019 ~ 2021
-> 
-> C
-> 
-> Python
-> 
-> Java
+2019~2021 Basic Programming Problem Solving
