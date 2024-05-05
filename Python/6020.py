@@ -1,0 +1,3 @@
+print(''.join(input().split('-')))
+
+
